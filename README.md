@@ -1,0 +1,2 @@
+# cloudstacking-digitalocean
+guides
